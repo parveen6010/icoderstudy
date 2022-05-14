@@ -1,2 +1,2 @@
 # icoderstudy
-made by HTML<Bootstrap
+made by HTML,Bootstrap
